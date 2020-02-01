@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="1" passed="1">
+  <reporter-output>
+    <line>
+      <![CDATA[create test customer]]>
+    </line>
+  </reporter-output>
+  <suite name="Suite" duration-ms="46" started-at="2020-02-01T05:54:35Z" finished-at="2020-02-01T05:54:35Z">
+    <groups>
+    </groups>
+    <test name="Test" duration-ms="46" started-at="2020-02-01T05:54:35Z" finished-at="2020-02-01T05:54:35Z">
+      <class name="com.actitime.Newtest.CreateTestNGUsere">
+        <test-method status="PASS" signature="testcustomer()[pri:0, instance:com.actitime.Newtest.CreateTestNGUsere@2d45ba]" name="testcustomer" duration-ms="16" started-at="2020-02-01T11:24:35Z" finished-at="2020-02-01T11:24:35Z">
+          <reporter-output>
+            <line>
+              <![CDATA[create test customer]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- testcustomer -->
+      </class> <!-- com.actitime.Newtest.CreateTestNGUsere -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>
